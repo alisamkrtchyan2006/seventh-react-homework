@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "id": "104",
+      "text": "responsivness of main page",
+      "status": "completed"
+    },
+    {
+      "id": "105",
+      "text": "use carousel lib for gallery",
+      "status": "unstarted"
+    }
+  ]
+}
